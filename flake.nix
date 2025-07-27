@@ -1,6 +1,13 @@
 {
   description = "XTDB - the temporal database";
 
+  # To build, run the following commands:
+  # -------------------------------------
+  # nix develop
+  # nix run github:nhooey/gradle2nix/v2_bugfix-remove-param-console-plain#gradle2nix -- --log debug --task shadowJar --dump-events
+  # exit  # to leave the `nix develop` shell
+  # nix build --print-build-logs --show-trace
+
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
     flake-utils.url = "github:numtide/flake-utils";
