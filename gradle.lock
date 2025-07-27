@@ -8338,5 +8338,75 @@
       "url": "https://repo.clojars.org/weavejester/dependency/0.2.1/dependency-0.2.1.pom",
       "hash": "sha256-aK2mnRAeEby9h4sNiwO3bsmBJebRvr13mcY0XpHdu68="
     }
+  },
+  "org.jetbrains.kotlinx:kotlinx-coroutines-test:1.10.2": {
+    "kotlinx-coroutines-test-1.10.2.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-test/1.10.2/kotlinx-coroutines-test-1.10.2.jar",
+      "hash": "sha256-+tvgT72noncodw2OrsvewKmwspaTwgy+p3ZV14PYvXg="
+    },
+    "kotlinx-coroutines-test-1.10.2.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-test/1.10.2/kotlinx-coroutines-test-1.10.2.pom",
+      "hash": "sha256-vyXI3w7J8+rHu+5Tm2AbYBm36Z9fPzAR4ugXixQHUNs="
+    }
+  },
+  "io.mockk:mockk:1.13.17": {
+    "mockk-1.13.17.jar": {
+      "url": "https://repo.maven.apache.org/maven2/io/mockk/mockk/1.13.17/mockk-1.13.17.jar",
+      "hash": "sha256-9jSmcj1wIR3nUHBJG8cGKwQvjcAbzTuISH/LGlttHBw="
+    },
+    "mockk-1.13.17.pom": {
+      "url": "https://repo.maven.apache.org/maven2/io/mockk/mockk/1.13.17/mockk-1.13.17.pom",
+      "hash": "sha256-umuj6gjQeS5U1UPyxU4NCMOlRGf4yX4CjXZP/yAeD2o="
+    }
+  },
+  "org.clojure:test.check:1.1.1": {
+    "test.check-1.1.1.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/clojure/test.check/1.1.1/test.check-1.1.1.jar",
+      "hash": "sha256-lFEYFjssNVpfq5bJ69AShxUlVbsulkH1zZ7Qf+S8UHg="
+    },
+    "test.check-1.1.1.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/clojure/test.check/1.1.1/test.check-1.1.1.pom",
+      "hash": "sha256-lqAC7Edw1pxWlVEJykIewELOc0+jdnf6rgvi8708xxc="
+    }
+  },
+  "org.testcontainers:testcontainers:1.21.1": {
+    "testcontainers-1.21.1.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/testcontainers/testcontainers/1.21.1/testcontainers-1.21.1.jar",
+      "hash": "sha256-2qjL55xAvR1ql5rYFdS7IRVFmdGj8jwX9Av5j8d+bIo="
+    },
+    "testcontainers-1.21.1.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/testcontainers/testcontainers/1.21.1/testcontainers-1.21.1.pom",
+      "hash": "sha256-MCGAptkh1dMrI7c3IkNpPrrRi/QDeCsNAilAC/Pz27Q="
+    }
+  },
+  "org.testcontainers:kafka:1.21.1": {
+    "kafka-1.21.1.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/testcontainers/kafka/1.21.1/kafka-1.21.1.jar",
+      "hash": "sha256-0McPTJLrQXmac4RwlhqlPQWeYIJXSGWVZ7n8Owjdc4U="
+    },
+    "kafka-1.21.1.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/testcontainers/kafka/1.21.1/kafka-1.21.1.pom",
+      "hash": "sha256-q4uz+fcaNRknz52XwKLYzOmVNM5w0ZYwnnmgLYdP6d4="
+    }
+  },
+  "org.testcontainers:minio:1.21.1": {
+    "minio-1.21.1.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/testcontainers/minio/1.21.1/minio-1.21.1.jar",
+      "hash": "sha256-DYAacEDTftZR5fDDFD41FLq/fXSSKSTmxT1W34Em9Sw="
+    },
+    "minio-1.21.1.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/testcontainers/minio/1.21.1/minio-1.21.1.pom",
+      "hash": "sha256-Q2BavRtL+3ph1CRZ5KjAmwzQckIBhGF7ZNE8yNWN1Hs="
+    }
+  },
+  "org.apache.arrow:flight-sql:15.0.2": {
+    "flight-sql-15.0.2.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/arrow/flight-sql/15.0.2/flight-sql-15.0.2.jar",
+      "hash": "sha256-++0SBK5Sqxv+mGRKnu51Q8zz6S0KKsIoGSTmMGpjQQQ="
+    },
+    "flight-sql-15.0.2.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/arrow/flight-sql/15.0.2/flight-sql-15.0.2.pom",
+      "hash": "sha256-ZL66u2pzqg4D10ayeITGNyaBzL4VgEMJqd/mIICN3O8="
+    }
   }
 }
