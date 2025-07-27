@@ -5,7 +5,7 @@
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
     flake-utils.url = "github:numtide/flake-utils";
     gradle2nix = {
-      url = "github:tadfisher/gradle2nix/v2";
+      url = "github:nhooey/gradle2nix/v2_bugfix-remove-param-console-plain";
       inputs.nixpkgs.follows = "nixpkgs";
     };
   };
@@ -20,7 +20,7 @@
           sourceRoot = "source";
           lockFile = ./gradle.lock;
           gradleFlags = [ "-Pversion=2.x-SNAPSHOT" ];
-          gradleInstallFlags = [ "build" "shadowJar" ];
+          gradleBuildFlags = [ "build" "shadowJar" ];
           java = nixpkgs.legacyPackages.${system}.jdk21;
           nativeBuildInputs = with nixpkgs.legacyPackages.${system}; [
             gradle

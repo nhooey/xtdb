@@ -44,16 +44,16 @@
         ]
       },
       "locked": {
-        "lastModified": 1743629487,
-        "narHash": "sha256-MjnEgT9MhO2HknLhrx7GvBRVxdOzSKydIJMyzawe2Fk=",
-        "owner": "tadfisher",
+        "lastModified": 1753639847,
+        "narHash": "sha256-VyroljxOac6PTeYoQ4voFSI4NDZvLp/C4P2KHeu0Hjs=",
+        "owner": "nhooey",
         "repo": "gradle2nix",
-        "rev": "293ecbdc10d32d9d4bdc2d23213b9be09ce247ee",
+        "rev": "88dcded05cd1dbae224511eabc5f27f4d1ed494f",
         "type": "github"
       },
       "original": {
-        "owner": "tadfisher",
-        "ref": "v2",
+        "owner": "nhooey",
+        "ref": "v2_bugfix-remove-param-console-plain",
         "repo": "gradle2nix",
         "type": "github"
       }
