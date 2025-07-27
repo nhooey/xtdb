@@ -126,7 +126,7 @@ tasks.generateGrammarSource {
 
 protobuf {
     protoc {
-        artifact = "com.google.protobuf:protoc:${libs.versions.protobuf.asProvider().get()}"
+        path = "protoc"
     }
 
     generateProtoTasks {

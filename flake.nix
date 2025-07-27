@@ -29,9 +29,21 @@
           gradleFlags = [ "-Pversion=2.x-SNAPSHOT" ];
           gradleBuildFlags = [ "build" "shadowJar" ];
           java = nixpkgs.legacyPackages.${system}.jdk21;
+
           nativeBuildInputs = with nixpkgs.legacyPackages.${system}; [
             gradle
+            (protobuf.overrideAttrs (oldAttrs: rec {
+              version = "4.31.1";
+              src = fetchFromGitHub {
+                owner = "protocolbuffers";
+                repo = "protobuf";
+                rev = "v${version}";
+                sha256 = "sha256-E8q8XupOXoCFpXyGNHArfBmVm6ebfDgaJlJyvMqpveU=";
+              };
+              doInstallCheck = false; # Version check fails because it outputs only: `31.1`
+            }))
           ];
+
           doCheck = false;
           meta = {
             description = "XTDB - the temporal database";

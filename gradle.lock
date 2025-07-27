@@ -1075,12 +1075,6 @@
       "hash": "sha256-3xNRAY7s8q4QI4m0IVkgmGS6fkOsWrnxkqK96rkKj7U="
     }
   },
-  "com.google:google:5": {
-    "google-5.pom": {
-      "url": "https://repo.maven.apache.org/maven2/com/google/google/5/google-5.pom",
-      "hash": "sha256-4J00XnPKP7yn8+BfMN63Tp053Wt5qT/ujFEfI0F7aCg="
-    }
-  },
   "com.google.android:annotations:4.1.1.4": {
     "annotations-4.1.1.4.jar": {
       "url": "https://repo.maven.apache.org/maven2/com/google/android/annotations/4.1.1.4/annotations-4.1.1.4.jar",
@@ -1797,16 +1791,6 @@
     "protobuf-parent-3.25.3.pom": {
       "url": "https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.25.3/protobuf-parent-3.25.3.pom",
       "hash": "sha256-vCdEYIzqOnotTNC3Thw/iBOMZM5aphudfwr9hGiCvno="
-    }
-  },
-  "com.google.protobuf:protoc:4.31.1": {
-    "protoc-4.31.1-osx-aarch_64.exe": {
-      "url": "https://repo.maven.apache.org/maven2/com/google/protobuf/protoc/4.31.1/protoc-4.31.1-osx-aarch_64.exe",
-      "hash": "sha256-pU5ypcOwb47s0jWg6iLKhJTOxzimVcq70Lmphk+C9PE="
-    },
-    "protoc-4.31.1.pom": {
-      "url": "https://repo.maven.apache.org/maven2/com/google/protobuf/protoc/4.31.1/protoc-4.31.1.pom",
-      "hash": "sha256-DWPVeeQWfBEGZO25fGegrcMPjTllYq93BaDHrGDfYl4="
     }
   },
   "com.google.re2j:re2j:1.7": {
