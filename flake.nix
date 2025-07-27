@@ -54,13 +54,17 @@
         };
       };
 
-      devShells.default = nixpkgs.legacyPackages.${system}.mkShell {
-        buildInputs = with nixpkgs.legacyPackages.${system}; [
-          jdk21
-          gradle
-        ] ++ (if (gradle2nix.packages ? ${system} && gradle2nix.packages.${system} ? default)
-        then [ gradle2nix.packages.${system}.default ]
-        else [ ]);
-      };
+      devShells.default =
+        let
+          pkgs = nixpkgs.legacyPackages.${system};
+        in
+        pkgs.mkShell {
+          buildInputs = [
+            pkgs.jdk21
+            pkgs.gradle
+          ] ++ (if (gradle2nix.packages ? ${system} && gradle2nix.packages.${system} ? default)
+          then [ gradle2nix.packages.${system}.default ]
+          else [ ]);
+        };
     });
 }
