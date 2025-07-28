@@ -35,3 +35,11 @@ terraform.tfstate.backup
 
 # This directory should only contain data not checked in
 src/test/resources/data/
+
+# Nix build files
+/buildSrc-log.txt
+/buildSrc-tree.json
+/buildSrc-tree.txt
+/project-log.txt
+/project-tree.json
+/project-tree.txt
