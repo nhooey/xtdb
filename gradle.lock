@@ -8530,5 +8530,47 @@
       "url": "https://repo1.maven.org/maven2/com/github/docker-java/docker-java-transport/3.4.2/docker-java-transport-3.4.2.jar",
       "hash": "sha256-vJmBIk/cLUcmVm/HI0cGAc6xQ3gmXIZbTCAxRqTjl2U="
     }
+  },
+  "org.apache.arrow:arrow-java-root:15.0.2": {
+    "arrow-java-root-15.0.2.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/arrow/arrow-java-root/15.0.2/arrow-java-root-15.0.2.pom",
+      "hash": "sha256-3eYwjnKSWsQMNj6gXovBzMUgoe5FFBon6XoeVQdq2UA="
+    }
+  },
+  "org.hamcrest:hamcrest-parent:1.3": {
+    "hamcrest-parent-1.3.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom",
+      "hash": "sha256-bVNflO+2Y722gsnyelAzU5RogAlkK6epZ3UEvBvkEps="
+    }
+  },
+  "org.apache.arrow:arrow-bom:15.0.2": {
+    "arrow-bom-15.0.2.pom": {
+      "url": "https://repo1.maven.org/maven2/org/apache/arrow/arrow-bom/15.0.2/arrow-bom-15.0.2.pom",
+      "hash": "sha256-smxLzIdQ3lilf5FewSm3Ldwe4aiQQTcuBIIEz2dmB3k="
+    }
+  },
+  "com.fasterxml.jackson:jackson-bom:2.16.0": {
+    "jackson-bom-2.16.0.pom": {
+      "url": "https://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-bom/2.16.0/jackson-bom-2.16.0.pom",
+      "hash": "sha256-Wqooh0QFvwT7qOLFcVkieCRGG6b31VKr246NOgum+L8="
+    }
+  },
+  "com.fasterxml.jackson:jackson-parent:2.16": {
+    "jackson-parent-2.16.pom": {
+      "url": "https://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-parent/2.16/jackson-parent-2.16.pom",
+      "hash": "sha256-i/YUKBIUiiq/aFCycvCvTD2P8RIe1gTEAvPzjJ5lRqs="
+    }
+  },
+  "com.google.guava:guava-bom:33.0.0-jre": {
+    "guava-bom-33.0.0-jre.pom": {
+      "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava-bom/33.0.0-jre/guava-bom-33.0.0-jre.pom",
+      "hash": "sha256-WbIwZqWpS4vzI5vUKICZGPsXMG49tJZpqVCaDqRph2g="
+    }
+  },
+  "io.netty:netty-bom:4.1.104.Final": {
+    "netty-bom-4.1.104.Final.pom": {
+      "url": "https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.104.Final/netty-bom-4.1.104.Final.pom",
+      "hash": "sha256-WmXgahWdINO0gAYkpXDGRtvucQsrU5s0SaJoVYwonpw="
+    }
   }
 }
