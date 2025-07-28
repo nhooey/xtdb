@@ -173,6 +173,26 @@
       "hash": "sha256-0dY8gBS4tmQt0KrHBjNmv/y47d1Y4nYv2oyCtFtv58E="
     }
   },
+  "com.dorongold.plugins:task-tree:4.0.1": {
+    "task-tree-4.0.1.jar": {
+      "url": "https://plugins.gradle.org/m2/com/dorongold/plugins/task-tree/4.0.1/task-tree-4.0.1.jar",
+      "hash": "sha256-ts0J66aI9Z8MKOz5B5Judn2sj49Uj4NCtoPC2eXxYd8="
+    },
+    "task-tree-4.0.1.module": {
+      "url": "https://plugins.gradle.org/m2/com/dorongold/plugins/task-tree/4.0.1/task-tree-4.0.1.module",
+      "hash": "sha256-XmVIhnIG4sRGnT5SaKbWAeOHJlDxX5O0nN2Ep9wvRE0="
+    },
+    "task-tree-4.0.1.pom": {
+      "url": "https://plugins.gradle.org/m2/com/dorongold/plugins/task-tree/4.0.1/task-tree-4.0.1.pom",
+      "hash": "sha256-D0Zh9Scdn0SpHbbb2oH+wiYGQfS+yqsdeyHA9CQxs8k="
+    }
+  },
+  "com.dorongold.task-tree:com.dorongold.task-tree.gradle.plugin:4.0.1": {
+    "com.dorongold.task-tree.gradle.plugin-4.0.1.pom": {
+      "url": "https://plugins.gradle.org/m2/com/dorongold/task-tree/com.dorongold.task-tree.gradle.plugin/4.0.1/com.dorongold.task-tree.gradle.plugin-4.0.1.pom",
+      "hash": "sha256-dG8AckiF9el+2BUjZxlS6W3srcGNlaXNL6ztdnC5Cxk="
+    }
+  },
   "com.fasterxml:oss-parent:61": {
     "oss-parent-61.pom": {
       "url": "https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/61/oss-parent-61.pom",
@@ -1653,12 +1673,6 @@
       "hash": "sha256-Y91KOTqcDfyzFO/oOHGkHSQ7yNIAy8fy0ZfzDaeCOdg="
     }
   },
-  "org.apache:apache:29": {
-    "apache-29.pom": {
-      "url": "https://plugins.gradle.org/m2/org/apache/apache/29/apache-29.pom",
-      "hash": "sha256-PkkDcXSCC70N9jQgqXclWIY5iVTCoGKR+mH3J6w1s3c="
-    }
-  },
   "org.apache:apache:17": {
     "apache-17.pom": {
       "url": "https://plugins.gradle.org/m2/org/apache/apache/17/apache-17.pom",
@@ -1821,14 +1835,14 @@
       "hash": "sha256-4oA4OVbC5ywd6zowezt18F7kNkm31D8CFfe2x7Fe6iw="
     }
   },
-  "org.apache.commons:commons-lang3:3.13.0": {
-    "commons-lang3-3.13.0.jar": {
-      "url": "https://plugins.gradle.org/m2/org/apache/commons/commons-lang3/3.13.0/commons-lang3-3.13.0.jar",
-      "hash": "sha256-gvUoz3GMejwvMPxbx4TjxqChCxdgXa254WyC7eEeYGQ="
+  "org.apache.commons:commons-lang3:3.14.0": {
+    "commons-lang3-3.14.0.jar": {
+      "url": "https://plugins.gradle.org/m2/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar",
+      "hash": "sha256-e5a/PuaJSau1vEZVWawnDgVRWW+jRSP934kOxBjd4Tw="
     },
-    "commons-lang3-3.13.0.pom": {
-      "url": "https://plugins.gradle.org/m2/org/apache/commons/commons-lang3/3.13.0/commons-lang3-3.13.0.pom",
-      "hash": "sha256-/3zqTrI53WIRdRDavlGo1fDJ5MxCa8PowsIhpxj4ZIQ="
+    "commons-lang3-3.14.0.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.pom",
+      "hash": "sha256-EQQ4hjutN8KPkGv4cBbjjHqMdYujIeCdEdxaI2Oo554="
     }
   },
   "org.apache.commons:commons-parent:79": {
@@ -1877,12 +1891,6 @@
     "commons-parent-61.pom": {
       "url": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/61/commons-parent-61.pom",
       "hash": "sha256-0+wtNYSB/lEmDBNbtg+lIRwvXhhaFOp/eNA6Fr2QmNc="
-    }
-  },
-  "org.apache.commons:commons-parent:58": {
-    "commons-parent-58.pom": {
-      "url": "https://plugins.gradle.org/m2/org/apache/commons/commons-parent/58/commons-parent-58.pom",
-      "hash": "sha256-LUsS4YiZBjq9fHUni1+pejcp2Ah4zuy2pA2UbpwNVZA="
     }
   },
   "org.apache.commons:commons-text:1.11.0": {
@@ -2237,6 +2245,22 @@
     "tools.reader-1.3.6.pom": {
       "url": "https://repo.maven.apache.org/maven2/org/clojure/tools.reader/1.3.6/tools.reader-1.3.6.pom",
       "hash": "sha256-rvXugot8sUocWPRbn4oQ/zQMV2mSXqDvXDXR5J2SC+o="
+    }
+  },
+  "org.codehaus.groovy:groovy:3.0.21": {
+    "groovy-3.0.21.jar": {
+      "url": "https://plugins.gradle.org/m2/org/codehaus/groovy/groovy/3.0.21/groovy-3.0.21.jar",
+      "hash": "sha256-XPNzDAwsFcKT93UN1xFO0npnH8lAFlu64DeKKB9bLV4="
+    },
+    "groovy-3.0.21.pom": {
+      "url": "https://plugins.gradle.org/m2/org/codehaus/groovy/groovy/3.0.21/groovy-3.0.21.pom",
+      "hash": "sha256-uOnopeJGLS/MFGzkHalgebiTHnDbPqudWdaJhj0Jaxc="
+    }
+  },
+  "org.codehaus.groovy:groovy-bom:3.0.21": {
+    "groovy-bom-3.0.21.pom": {
+      "url": "https://plugins.gradle.org/m2/org/codehaus/groovy/groovy-bom/3.0.21/groovy-bom-3.0.21.pom",
+      "hash": "sha256-ksw2r/0g9Wi1CSwLlOz1hd3rCigbbIunJWVwuxhdZTQ="
     }
   },
   "org.codehaus.plexus:plexus:18": {
@@ -3983,16 +4007,6 @@
       "hash": "sha256-4AbdiJT5/Ht1/DK7Ev5e2L5lZn1bRU+Z4uC4xbuNMLM="
     }
   },
-  "org.junit:junit-bom:5.9.3": {
-    "junit-bom-5.9.3.module": {
-      "url": "https://plugins.gradle.org/m2/org/junit/junit-bom/5.9.3/junit-bom-5.9.3.module",
-      "hash": "sha256-tAH9JZAeWCpSSqU0PEs54ovFbiSWHBBpvytLv87ka5M="
-    },
-    "junit-bom-5.9.3.pom": {
-      "url": "https://plugins.gradle.org/m2/org/junit/junit-bom/5.9.3/junit-bom-5.9.3.pom",
-      "hash": "sha256-TQMpzZ5y8kIOXKFXJMv+b/puX9KIg2FRYnEZD9w0Ltc="
-    }
-  },
   "org.junit:junit-bom:5.9.1": {
     "junit-bom-5.9.1.module": {
       "url": "https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.9.1/junit-bom-5.9.1.module",
@@ -4431,6 +4445,422 @@
     "dependency-0.2.1.pom": {
       "url": "https://repo.clojars.org/weavejester/dependency/0.2.1/dependency-0.2.1.pom",
       "hash": "sha256-aK2mnRAeEby9h4sNiwO3bsmBJebRvr13mcY0XpHdu68="
+    }
+  },
+  "clj-http:clj-http:3.12.3": {
+    "clj-http-3.12.3.jar": {
+      "url": "https://repo.clojars.org/clj-http/clj-http/3.12.3/clj-http-3.12.3.jar",
+      "hash": "sha256-OJ0pdhKo6KzGbF0NZKbJO99lDe1iXG9q4Wk7kzaKkaU="
+    },
+    "clj-http-3.12.3.pom": {
+      "url": "https://repo.clojars.org/clj-http/clj-http/3.12.3/clj-http-3.12.3.pom",
+      "hash": "sha256-Jx0VRYS9iV/S4w9jEVAE8ce4xySq6tLLKpl8XFWEBfA="
+    }
+  },
+  "software.amazon.awssdk:s3:2.25.50": {
+    "s3-2.25.50.jar": {
+      "url": "https://repo.maven.apache.org/maven2/software/amazon/awssdk/s3/2.25.50/s3-2.25.50.jar",
+      "hash": "sha256-DbyofXrgaNmdJ14hOxexf53jJIuaxaunpBh62BHSN68="
+    },
+    "s3-2.25.50.pom": {
+      "url": "https://repo.maven.apache.org/maven2/software/amazon/awssdk/s3/2.25.50/s3-2.25.50.pom",
+      "hash": "sha256-Z+ovW7u/76JFK3+1t7f+spGu48CvtP9q46YMlcPiSuU="
+    }
+  },
+  "io.micrometer:micrometer-registry-cloudwatch2:1.15.0": {
+    "micrometer-registry-cloudwatch2-1.15.0.jar": {
+      "url": "https://repo.maven.apache.org/maven2/io/micrometer/micrometer-registry-cloudwatch2/1.15.0/micrometer-registry-cloudwatch2-1.15.0.jar",
+      "hash": "sha256-LGZkcv3I7K6IaCy20Ui6DCALpIdGthTXhtUNg9NIjq0="
+    },
+    "micrometer-registry-cloudwatch2-1.15.0.pom": {
+      "url": "https://repo.maven.apache.org/maven2/io/micrometer/micrometer-registry-cloudwatch2/1.15.0/micrometer-registry-cloudwatch2-1.15.0.pom",
+      "hash": "sha256-HUnhoh0QYoN1gQ7QPEDoSxhFbFz+6xZLxLZIp4ZZpKM="
+    }
+  },
+  "software.amazon.awssdk:cloudwatch:2.25.50": {
+    "cloudwatch-2.25.50.pom": {
+      "url": "https://repo.maven.apache.org/maven2/software/amazon/awssdk/cloudwatch/2.25.50/cloudwatch-2.25.50.pom",
+      "hash": "sha256-5aY5e+GZlTvLwJsDpQjmfWJmEbcuI8vWhY4Ac4+SrC8="
+    }
+  },
+  "software.amazon.awssdk:core:2.31.41": {
+    "core-2.31.41.pom": {
+      "url": "https://repo.maven.apache.org/maven2/software/amazon/awssdk/core/2.31.41/core-2.31.41.pom",
+      "hash": "sha256-VREbfxFy+4knFyExQcCXJw4HTVq3fBny5/nhD6DqU6E="
+    }
+  },
+  "software.amazon.awssdk:sts:2.25.50": {
+    "sts-2.25.50.jar": {
+      "url": "https://repo.maven.apache.org/maven2/software/amazon/awssdk/sts/2.25.50/sts-2.25.50.jar",
+      "hash": "sha256-HeOaiwHgRKjQTW3fqIQl/b17ypMRZZeqZh0Rc0sq3Yg="
+    },
+    "sts-2.25.50.pom": {
+      "url": "https://repo.maven.apache.org/maven2/software/amazon/awssdk/sts/2.25.50/sts-2.25.50.pom",
+      "hash": "sha256-DARLx49HuW4AzGrXB39PO1CaEgLghMBRxcx1x5fo9Gw="
+    }
+  },
+  "com.github.oshi:oshi-core:6.3.0": {
+    "oshi-core-6.3.0.jar": {
+      "url": "https://repo.maven.apache.org/maven2/com/github/oshi/oshi-core/6.3.0/oshi-core-6.3.0.jar",
+      "hash": "sha256-WqgkDUldFEkRDGoJf9ahiqdIHtrBKdOk/7Sr7x5zNjs="
+    },
+    "oshi-core-6.3.0.pom": {
+      "url": "https://repo.maven.apache.org/maven2/com/github/oshi/oshi-core/6.3.0/oshi-core-6.3.0.pom",
+      "hash": "sha256-SFur8j2uPTOXtv2guP3qoKtsgDtKs3xyoRmXLKeBGkU="
+    }
+  },
+  "pro.juxt.clojars-mirrors.hiccup:hiccup:2.0.0-alpha2": {
+    "hiccup-2.0.0-alpha2.jar": {
+      "url": "https://repo.maven.apache.org/maven2/pro/juxt/clojars-mirrors/hiccup/hiccup/2.0.0-alpha2/hiccup-2.0.0-alpha2.jar",
+      "hash": "sha256-MUd07SPU5Stf5XgX0TXGApokH/gg6B4gvRobRh58Lg0="
+    },
+    "hiccup-2.0.0-alpha2.pom": {
+      "url": "https://repo.maven.apache.org/maven2/pro/juxt/clojars-mirrors/hiccup/hiccup/2.0.0-alpha2/hiccup-2.0.0-alpha2.pom",
+      "hash": "sha256-Tx7AMDreqICbX7p7wJYq1OwDV95N3Q3JC2RgypcfvsA="
+    }
+  },
+  "io.airlift.tpch:tpch:0.10": {
+    "tpch-0.10.jar": {
+      "url": "https://repo.maven.apache.org/maven2/io/airlift/tpch/tpch/0.10/tpch-0.10.jar",
+      "hash": "sha256-NpiA+RUReN7fS/aTWyvdHVCqICWda4D8uCXfiWTIrpU="
+    },
+    "tpch-0.10.pom": {
+      "url": "https://repo.maven.apache.org/maven2/io/airlift/tpch/tpch/0.10/tpch-0.10.pom",
+      "hash": "sha256-ey2KSW5z+t9wSkOirXIweD1UVl5r7fHxFN37fhwoytw="
+    }
+  },
+  "org.apache.kafka:kafka-clients:4.0.0": {
+    "kafka-clients-4.0.0.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-clients/4.0.0/kafka-clients-4.0.0.jar",
+      "hash": "sha256-iorQ709xOLP1wTjKSpIbo8zlvmSoLoLDcKmhNPMYlaI="
+    },
+    "kafka-clients-4.0.0.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-clients/4.0.0/kafka-clients-4.0.0.pom",
+      "hash": "sha256-8/aeRMg4VRuXmMD15bPLjFLLVpRFogAOJuigLLRJ5S0="
+    }
+  },
+  "software.amazon.awssdk:services:2.25.50": {
+    "services-2.25.50.pom": {
+      "url": "https://repo.maven.apache.org/maven2/software/amazon/awssdk/services/2.25.50/services-2.25.50.pom",
+      "hash": "sha256-795vzdKiC926ltevwBC/k+J0pcb/F34Ie8rwqhpa55o="
+    }
+  },
+  "software.amazon.awssdk:services:2.25.24": {
+    "services-2.25.24.pom": {
+      "url": "https://repo.maven.apache.org/maven2/software/amazon/awssdk/services/2.25.24/services-2.25.24.pom",
+      "hash": "sha256-gg8+2//fNGOr7boPuVAdvKJ0l+taepi8E8Gi79986aI="
+    }
+  },
+  "software.amazon.awssdk:cloudwatch:2.31.41": {
+    "cloudwatch-2.31.41.jar": {
+      "url": "https://repo.maven.apache.org/maven2/software/amazon/awssdk/cloudwatch/2.31.41/cloudwatch-2.31.41.jar",
+      "hash": "sha256-XB/i0LYCl5U77kIMgP81r2OTSzobMs4Ru37Sbzj1nGU="
+    },
+    "cloudwatch-2.31.41.pom": {
+      "url": "https://repo.maven.apache.org/maven2/software/amazon/awssdk/cloudwatch/2.31.41/cloudwatch-2.31.41.pom",
+      "hash": "sha256-iXF1SBOaaoXGXO1qPMnzm2mKkR+goMJIbaeqowWjyYk="
+    }
+  },
+  "org.apache.httpcomponents:httpcore:4.4.14": {
+    "httpcore-4.4.14.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.pom",
+      "hash": "sha256-VXFjmKl48QID+eJciu/AWA2vfwkHxu0K6tgexftrf9g="
+    }
+  },
+  "org.apache.httpcomponents:httpclient:4.5.13": {
+    "httpclient-4.5.13.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar",
+      "hash": "sha256-b+kCalZsalABYIzz/DIZZkH2weXhmG0QN8zb1fMe90M="
+    },
+    "httpclient-4.5.13.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.pom",
+      "hash": "sha256-eOua2nSSn81j0HrcT0kjaEGkXMKdX4F79FgB9RP9fmw="
+    }
+  },
+  "org.apache.httpcomponents:httpclient-cache:4.5.13": {
+    "httpclient-cache-4.5.13.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient-cache/4.5.13/httpclient-cache-4.5.13.jar",
+      "hash": "sha256-Zs797nR1mFJWr2gL86581dfULo/euTmmJ3ki4b3u1Do="
+    },
+    "httpclient-cache-4.5.13.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient-cache/4.5.13/httpclient-cache-4.5.13.pom",
+      "hash": "sha256-o1h75UcWw7gKMonBHfhlqWK8cr5HiRReQgxpSL9FpKQ="
+    }
+  },
+  "org.apache.httpcomponents:httpasyncclient:4.1.4": {
+    "httpasyncclient-4.1.4.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpasyncclient/4.1.4/httpasyncclient-4.1.4.jar",
+      "hash": "sha256-UOmBqOVnoW69rRBGBbFWVAqGNFn6EnuLpkfzEN/IPvg="
+    },
+    "httpasyncclient-4.1.4.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpasyncclient/4.1.4/httpasyncclient-4.1.4.pom",
+      "hash": "sha256-NPJO+Ya4nVG4CgkDh6o9DIJNQPCHrlzPrUf/PCYsLkc="
+    }
+  },
+  "org.apache.httpcomponents:httpmime:4.5.13": {
+    "httpmime-4.5.13.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13.jar",
+      "hash": "sha256-BudU2ZJFuY3MKGDctD0g5zfWUNor8gd6EF9orMvVxcw="
+    },
+    "httpmime-4.5.13.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13.pom",
+      "hash": "sha256-k0GN8hCu7VBQJUjbzysXwPHZFEMDDnL+++7RZSscKN0="
+    }
+  },
+  "slingshot:slingshot:0.12.2": {
+    "slingshot-0.12.2.jar": {
+      "url": "https://repo.clojars.org/slingshot/slingshot/0.12.2/slingshot-0.12.2.jar",
+      "hash": "sha256-porCK/LqPNVM4023D9aYRNYx71SfZFDCeMMOb3nfY/M="
+    },
+    "slingshot-0.12.2.pom": {
+      "url": "https://repo.clojars.org/slingshot/slingshot/0.12.2/slingshot-0.12.2.pom",
+      "hash": "sha256-SrxOK5ppxzvTc+gy0/AOWQZ4Q/+DUe/V7rsfOCTbnFE="
+    }
+  },
+  "potemkin:potemkin:0.4.5": {
+    "potemkin-0.4.5.jar": {
+      "url": "https://repo.clojars.org/potemkin/potemkin/0.4.5/potemkin-0.4.5.jar",
+      "hash": "sha256-KzZsg02Hy26mMbpoaXvDdNDRr4H23rQsKECUTaMgvZk="
+    },
+    "potemkin-0.4.5.pom": {
+      "url": "https://repo.clojars.org/potemkin/potemkin/0.4.5/potemkin-0.4.5.pom",
+      "hash": "sha256-3tL5YlDzDlqPmI60YeMvKzDzbBy0Qz+6qHu82kJRTDo="
+    }
+  },
+  "com.github.oshi:oshi-parent:6.3.0": {
+    "oshi-parent-6.3.0.pom": {
+      "url": "https://repo.maven.apache.org/maven2/com/github/oshi/oshi-parent/6.3.0/oshi-parent-6.3.0.pom",
+      "hash": "sha256-ptAkEy/8kIaw6bc6tk3ug/4NCBxnLsbOHvztYWV4KkI="
+    }
+  },
+  "software.amazon.awssdk:cloudwatch:2.31.41": {
+    "cloudwatch-2.31.41.jar": {
+      "url": "https://repo.maven.apache.org/maven2/software/amazon/awssdk/cloudwatch/2.31.41/cloudwatch-2.31.41.jar",
+      "hash": "sha256-XB/i0LYCl5U77kIMgP81r2OTSzobMs4Ru37Sbzj1nGU="
+    },
+    "cloudwatch-2.31.41.pom": {
+      "url": "https://repo.maven.apache.org/maven2/software/amazon/awssdk/cloudwatch/2.31.41/cloudwatch-2.31.41.pom",
+      "hash": "sha256-iXF1SBOaaoXGXO1qPMnzm2mKkR+goMJIbaeqowWjyYk="
+    }
+  },
+  "io.airlift:airbase:90": {
+    "airbase-90.pom": {
+      "url": "https://repo.maven.apache.org/maven2/io/airlift/airbase/90/airbase-90.pom",
+      "hash": "sha256-XTPieRVILckfEFieykRLlIa5h2u+EY1dHxu88XH1wrc="
+    }
+  },
+  "org.lz4:lz4-java:1.8.0": {
+    "lz4-java-1.8.0.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar",
+      "hash": "sha256-10ozNPs1GVAJszipUfkYID1rvKPR01kDPcM+3Rytye8="
+    },
+    "lz4-java-1.8.0.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.pom",
+      "hash": "sha256-DbittR4TJFSlxAbeuy8aDfgfk91Z++IMuUcQKZRokDQ="
+    }
+  },
+  "org.xerial.snappy:snappy-java:1.1.10.5": {
+    "snappy-java-1.1.10.5.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/xerial/snappy/snappy-java/1.1.10.5/snappy-java-1.1.10.5.jar",
+      "hash": "sha256-Dz8YV+0zEWWD9IC031wCGINsR7+8nGIhwNc/NW3s83s="
+    },
+    "snappy-java-1.1.10.5.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/xerial/snappy/snappy-java/1.1.10.5/snappy-java-1.1.10.5.pom",
+      "hash": "sha256-ZfW4PkjZ5JRIKtA/GEyeV680jXj0rr4AzWr9xnaB7Y0="
+    }
+  },
+  "clj-http:clj-http:3.12.3": {
+    "clj-http-3.12.3.jar": {
+      "url": "https://repo.clojars.org/clj-http/clj-http/3.12.3/clj-http-3.12.3.jar",
+      "hash": "sha256-OJ0pdhKo6KzGbF0NZKbJO99lDe1iXG9q4Wk7kzaKkaU="
+    },
+    "clj-http-3.12.3.pom": {
+      "url": "https://repo.clojars.org/clj-http/clj-http/3.12.3/clj-http-3.12.3.pom",
+      "hash": "sha256-Jx0VRYS9iV/S4w9jEVAE8ce4xySq6tLLKpl8XFWEBfA="
+    }
+  },
+  "software.amazon.awssdk:aws-sdk-java-pom:2.25.50": {
+    "aws-sdk-java-pom-2.25.50.pom": {
+      "url": "https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.25.50/aws-sdk-java-pom-2.25.50.pom",
+      "hash": "sha256-PS7gAJ1t9BOJayvE2wwk6pCZ32IQKkDtT7TzWK0VY4E="
+    }
+  },
+  "software.amazon.awssdk:aws-sdk-java-pom:2.25.24": {
+    "aws-sdk-java-pom-2.25.24.pom": {
+      "url": "https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.25.24/aws-sdk-java-pom-2.25.24.pom",
+      "hash": "sha256-5Ar/Kn/zGoe3U1sIg9B384aM3CUXo4x92GG+CWcw4BQ="
+    }
+  },
+  "software.amazon.awssdk:services:2.31.41": {
+    "services-2.31.41.pom": {
+      "url": "https://repo.maven.apache.org/maven2/software/amazon/awssdk/services/2.31.41/services-2.31.41.pom",
+      "hash": "sha256-T5J3JxCeWo9p8ktIdZjUU2NUtNuqJEwrswW7NBt4bcM="
+    }
+  },
+  "software.amazon.awssdk:services:2.31.30": {
+    "services-2.31.30.pom": {
+      "url": "https://plugins.gradle.org/m2/software/amazon/awssdk/services/2.31.30/services-2.31.30.pom",
+      "hash": "sha256-BXMUXpD1OZz1Xjijtc4BMDcY40a+gbdfHDaUGdeG6Nk="
+    }
+  },
+  "org.apache.httpcomponents:httpcomponents-core:4.4.14": {
+    "httpcomponents-core-4.4.14.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.14/httpcomponents-core-4.4.14.pom",
+      "hash": "sha256-IJ7ZMctXmYJS3+AnyqnAOtpiBhNkIylnkTEWX4scutE="
+    }
+  },
+  "org.apache.httpcomponents:httpcomponents-core:4.4.13": {
+    "httpcomponents-core-4.4.13.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.4.13/httpcomponents-core-4.4.13.pom",
+      "hash": "sha256-xVTnAI5FF8fvVOAFzIt09Mh6VKDqLG9Xvl0Fad9Rk2s="
+    }
+  },
+  "org.apache.httpcomponents:httpcomponents-client:4.5.13": {
+    "httpcomponents-client-4.5.13.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.5.13/httpcomponents-client-4.5.13.pom",
+      "hash": "sha256-nLpZTAjbcnHQwg6YRdYiuznmlYORC0Xn1d+C9gWNTdk="
+    }
+  },
+  "org.apache.httpcomponents:httpcomponents-core:4.4.16": {
+    "httpcomponents-core-4.4.16.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/httpcomponents/httpcomponents-core/4.4.16/httpcomponents-core-4.4.16.pom",
+      "hash": "sha256-8tdaLC1COtGFOb8hZW1W+IpAkZRKZi/K8VnVrig9t/c="
+    }
+  },
+  "org.apache.httpcomponents:httpcomponents-asyncclient:4.1.4": {
+    "httpcomponents-asyncclient-4.1.4.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-asyncclient/4.1.4/httpcomponents-asyncclient-4.1.4.pom",
+      "hash": "sha256-6WXrNprx2LWmi31LeGHVOlJhaugD4TFi6N+EImFwAYA="
+    }
+  },
+  "org.apache.httpcomponents:httpcomponents-client:4.5.14": {
+    "httpcomponents-client-4.5.14.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/httpcomponents/httpcomponents-client/4.5.14/httpcomponents-client-4.5.14.pom",
+      "hash": "sha256-W60d5PEBRHZZ+J0ImGjMutZKaMxQPS1lQQtR9pBKoGE="
+    }
+  },
+  "clj-tuple:clj-tuple:0.2.2": {
+    "clj-tuple-0.2.2.jar": {
+      "url": "https://repo.clojars.org/clj-tuple/clj-tuple/0.2.2/clj-tuple-0.2.2.jar",
+      "hash": "sha256-WNv3Pai8403EmN5sNH+HLvmPMBo6KdyVeX1k+A5ra0c="
+    },
+    "clj-tuple-0.2.2.pom": {
+      "url": "https://repo.clojars.org/clj-tuple/clj-tuple/0.2.2/clj-tuple-0.2.2.pom",
+      "hash": "sha256-ahZELYfCkwwDImtKo9KYkVfVi5TtPnyNZ2aLDrZYOJs="
+    }
+  },
+  "riddley:riddley:0.1.12": {
+    "riddley-0.1.12.jar": {
+      "url": "https://repo.clojars.org/riddley/riddley/0.1.12/riddley-0.1.12.jar",
+      "hash": "sha256-OY9h+kgluPhskWrlgMfhM7fEd9C3Kn07KY04EDJ0C64="
+    },
+    "riddley-0.1.12.pom": {
+      "url": "https://repo.clojars.org/riddley/riddley/0.1.12/riddley-0.1.12.pom",
+      "hash": "sha256-At+3ryDvgcJTZQVfYCjoscwpBdCyaLuJzEKM2nIwo2U="
+    }
+  },
+  "net.java.dev.jna:jna:5.12.1": {
+    "jna-5.12.1.jar": {
+      "url": "https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar",
+      "hash": "sha256-kagUrE9A1g3ukdhC4aith0xiGXmEQD0OPDDTnlXPU7M="
+    },
+    "jna-5.12.1.pom": {
+      "url": "https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/5.12.1/jna-5.12.1.pom",
+      "hash": "sha256-Zf8lhJuthZVUtQMXeS9Wia20UprkAx6aUkYxnLK4U1Y="
+    }
+  },
+  "net.java.dev.jna:jna-platform:5.12.1": {
+    "jna-platform-5.12.1.jar": {
+      "url": "https://repo.maven.apache.org/maven2/net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar",
+      "hash": "sha256-jOlpEWyslb1hsHqNXgcXSzUuYzAUc8qscsOV48CEiNI="
+    },
+    "jna-platform-5.12.1.pom": {
+      "url": "https://repo.maven.apache.org/maven2/net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.pom",
+      "hash": "sha256-wnn/o7UWjiIDCHIxxjiRmnzsdFgAaxzaZpWXR4YPtFc="
+    }
+  },
+  "com.google.guava:guava:26.0-jre": {
+    "guava-26.0-jre.jar": {
+      "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava/26.0-jre/guava-26.0-jre.jar",
+      "hash": "sha256-oOnKutZlvCC80rAfEI5fwD91bhOuqAq6rbn0BwM76iw="
+    },
+    "guava-26.0-jre.pom": {
+      "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava/26.0-jre/guava-26.0-jre.pom",
+      "hash": "sha256-HDN63JpKtLhE2oHahZNlgbiUbHy3EoTF3L2vHqp+4Qk="
+    }
+  },
+  "software.amazon.awssdk:bom-internal:2.25.50": {
+    "bom-internal-2.25.50.pom": {
+      "url": "https://repo.maven.apache.org/maven2/software/amazon/awssdk/bom-internal/2.25.50/bom-internal-2.25.50.pom",
+      "hash": "sha256-L0YilK9L+sEdsC3leKcl5PD7kaq9QDvys0RzfnGtRio="
+    }
+  },
+  "software.amazon.awssdk:aws-sdk-java-pom:2.31.41": {
+    "aws-sdk-java-pom-2.31.41.pom": {
+      "url": "https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.31.41/aws-sdk-java-pom-2.31.41.pom",
+      "hash": "sha256-NeyfJsm7OqesJQxKTFcbM0G0Bk7kn8G+TauEcKCJ9t8="
+    }
+  },
+  "org.apache.httpcomponents:httpcomponents-parent:11": {
+    "httpcomponents-parent-11.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/httpcomponents/httpcomponents-parent/11/httpcomponents-parent-11.pom",
+      "hash": "sha256-qQH4exFcVQcMfuQ+//Y+IOewLTCvJEOuKSvx9OUy06o="
+    }
+  },
+  "org.apache.httpcomponents:project:7": {
+    "project-7.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/httpcomponents/project/7/project-7.pom",
+      "hash": "sha256-PW66QoVVpVjeBGtddurMH1pUtPXyC4TWNu16/xiqSMM="
+    }
+  },
+  "com.google.guava:guava-parent:26.0-jre": {
+    "guava-parent-26.0-jre.pom": {
+      "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/26.0-jre/guava-parent-26.0-jre.pom",
+      "hash": "sha256-u31c1BfA19714+Jwkv3SNSLT/CUa2KB5VsE84Fc66qM="
+    }
+  },
+  "software.amazon.awssdk:bom-internal:2.31.41": {
+    "bom-internal-2.31.41.pom": {
+      "url": "https://repo.maven.apache.org/maven2/software/amazon/awssdk/bom-internal/2.31.41/bom-internal-2.31.41.pom",
+      "hash": "sha256-/GypidhL3tsvSWpzX9Z11Q7i1+B4zA9DlSdZfTmmgnM="
+    }
+  },
+  "org.apache:apache:21": {
+    "apache-21.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/apache/apache/21/apache-21.pom",
+      "hash": "sha256-rxDBCNoBTxfK+se1KytLWjocGCZfoq+XoyXZFDU3s4A="
+    }
+  },
+  "org.apache:apache:13": {
+    "apache-13.pom": {
+      "url": "https://plugins.gradle.org/m2/org/apache/apache/13/apache-13.pom",
+      "hash": "sha256-/1E9sDYf1BI3vvR4SWi8FarkeNTsCpSW+BEHLMrzhB0="
+    }
+  },
+  "software.amazon.awssdk:aws-xml-protocol:2.25.50": {
+    "aws-xml-protocol-2.25.50.jar": {
+      "url": "https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-xml-protocol/2.25.50/aws-xml-protocol-2.25.50.jar",
+      "hash": "sha256-du0WW0lXdpNAFph8Hp0+nRukpwr6t2Hbsj7ooisxHqM="
+    },
+    "aws-xml-protocol-2.25.50.pom": {
+      "url": "https://repo.maven.apache.org/maven2/software/amazon/awssdk/aws-xml-protocol/2.25.50/aws-xml-protocol-2.25.50.pom",
+      "hash": "sha256-nGq4WxwHqQ2LPKOdl6+N5wt+Jj9KjjPs/Ju01SZ4skM="
+    }
+  },
+  "software.amazon.awssdk:protocol-core:2.25.50": {
+    "protocol-core-2.25.50.pom": {
+      "url": "https://repo.maven.apache.org/maven2/software/amazon/awssdk/protocol-core/2.25.50/protocol-core-2.25.50.pom",
+      "hash": "sha256-ASvzOZtBseFSx695LOnGzAdzIhB8Yp677s9sI9QvTWM="
+    }
+  },
+  "software.amazon.awssdk:arns:2.25.50": {
+    "arns-2.25.50.jar": {
+      "url": "https://repo.maven.apache.org/maven2/software/amazon/awssdk/arns/2.25.50/arns-2.25.50.jar",
+      "hash": "sha256-Z+dZjLimtNkhkI06CI1f17yFy3zT+Okkfeo7ZH7m3Gg="
+    },
+    "arns-2.25.50.pom": {
+      "url": "https://repo.maven.apache.org/maven2/software/amazon/awssdk/arns/2.25.50/arns-2.25.50.pom",
+      "hash": "sha256-+M/ek3Ibc7WZ9Jg07uHQ8UcdyJR7uzR1ttaTZMuy9P4="
     }
   }
 }
