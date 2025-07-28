@@ -8399,14 +8399,136 @@
       "hash": "sha256-Q2BavRtL+3ph1CRZ5KjAmwzQckIBhGF7ZNE8yNWN1Hs="
     }
   },
-  "org.apache.arrow:flight-sql:15.0.2": {
-    "flight-sql-15.0.2.jar": {
-      "url": "https://repo.maven.apache.org/maven2/org/apache/arrow/flight-sql/15.0.2/flight-sql-15.0.2.jar",
-      "hash": "sha256-++0SBK5Sqxv+mGRKnu51Q8zz6S0KKsIoGSTmMGpjQQQ="
+  "com.github.docker-java:docker-java-transport-zerodep:3.4.2": {
+    "docker-java-transport-zerodep-3.4.2.jar": {
+      "url": "https://repo.maven.apache.org/maven2/com/github/docker-java/docker-java-transport-zerodep/3.4.2/docker-java-transport-zerodep-3.4.2.jar",
+      "hash": "sha256-WCt3LgxS+p0kcQYX72EGVUZe3ZopMLDbdfyGZ9ao0Cs="
     },
+    "docker-java-transport-zerodep-3.4.2.pom": {
+      "url": "https://repo.maven.apache.org/maven2/com/github/docker-java/docker-java-transport-zerodep/3.4.2/docker-java-transport-zerodep-3.4.2.pom",
+      "hash": "sha256-z5zk8OucYAWVt+iE+So/SvS3ZLR7ZKl96/TzSI0Uelw="
+    }
+  },
+  "io.mockk:mockk-agent:1.13.17": {
+    "mockk-agent-1.13.17.jar": {
+      "url": "https://repo.maven.apache.org/maven2/io/mockk/mockk-agent/1.13.17/mockk-agent-1.13.17.jar",
+      "hash": "sha256-taPWLlRG2Joqjt46BWZPP5Dp0TczBfzQRucG3Z+uPAA="
+    },
+    "mockk-agent-1.13.17.pom": {
+      "url": "https://repo.maven.apache.org/maven2/io/mockk/mockk-agent/1.13.17/mockk-agent-1.13.17.pom",
+      "hash": "sha256-pwgj+GNJp6TtwucorvjJSMKx16hOt6xrVfrvITgTc2s="
+    }
+  },
+  "io.mockk:mockk-core:1.13.17": {
+    "mockk-core-1.13.17.jar": {
+      "url": "https://repo.maven.apache.org/maven2/io/mockk/mockk-core/1.13.17/mockk-core-1.13.17.jar",
+      "hash": "sha256-+8ZPXESnrd7Ytuq1F899cFVeJRU79dRKbtmw5TEvfek="
+    },
+    "mockk-core-1.13.17.pom": {
+      "url": "https://repo.maven.apache.org/maven2/io/mockk/mockk-core/1.13.17/mockk-core-1.13.17.pom",
+      "hash": "sha256-LBrDoxHXVCLsCUsT8jXwKRQ13OlhCsfEHuWi1FEu70c="
+    }
+  },
+  "io.mockk:mockk-dsl:1.13.17": {
+    "mockk-dsl-1.13.17.jar": {
+      "url": "https://repo.maven.apache.org/maven2/io/mockk/mockk-dsl/1.13.17/mockk-dsl-1.13.17.jar",
+      "hash": "sha256-+8ZPXESnrd7Ytuq1F899cFVeJRU79dRKbtmw5TEvfek="
+    },
+    "mockk-dsl-1.13.17.pom": {
+      "url": "https://repo.maven.apache.org/maven2/io/mockk/mockk-dsl/1.13.17/mockk-dsl-1.13.17.pom",
+      "hash": "sha256-xKB6QpYhQFjn7knzlJBt0p+EQ+V5W8cGpuraVIDsua0="
+    }
+  },
+  "junit:junit:4.13.2": {
+    "junit-4.13.2.jar": {
+      "url": "https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar",
+      "hash": "sha256-jklbY0Rp1k+4rPo0laBly6zIoP/1XOHjEAe+TBbcV9M="
+    },
+    "junit-4.13.2.pom": {
+      "url": "https://repo.maven.apache.org/maven2/junit/junit/4.13.2/junit-4.13.2.pom",
+      "hash": "sha256-Vptpd+5GA8llwcRsMFj6bpaSkbAWDraWTdCSzYnq3ZQ="
+    }
+  },
+  "org.jetbrains.kotlinx:kotlinx-coroutines-test-jvm:1.10.2": {
+    "kotlinx-coroutines-test-jvm-1.10.2.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-test-jvm/1.10.2/kotlinx-coroutines-test-jvm-1.10.2.jar",
+      "hash": "sha256-WQpUn4wdtZDJ2YqKIEJKH1gaNBYqNp5qa9iEzn0209c="
+    },
+    "kotlinx-coroutines-test-jvm-1.10.2.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-test-jvm/1.10.2/kotlinx-coroutines-test-jvm-1.10.2.pom",
+      "hash": "sha256-Y96yqGiry+JIjrzrqnXnMbLvIQQQO4FzjnY3/JolpfM="
+    }
+  },
+  "org.rnorth.duct-tape:duct-tape:1.0.8": {
+    "duct-tape-1.0.8.jar": {
+      "url": "https://repo.maven.apache.org/maven2/org/rnorth/duct-tape/duct-tape/1.0.8/duct-tape-1.0.8.jar",
+      "hash": "sha256-Mc7xLd7JedH4bXz3CMQaF9pSPQXGhf1mQunQsq3bckA="
+    },
+    "duct-tape-1.0.8.pom": {
+      "url": "https://repo.maven.apache.org/maven2/org/rnorth/duct-tape/duct-tape/1.0.8/duct-tape-1.0.8.pom",
+      "hash": "sha256-Jjb2bevm4SQ3Yy8jpnubyWGwNjMAnlJSeju8hx9AabQ="
+    }
+  },
+  "io.mockk:mockk-agent-api:1.13.17": {
+    "mockk-agent-api-1.13.17.pom": {
+      "url": "https://repo1.maven.org/maven2/io/mockk/mockk-agent-api/1.13.17/mockk-agent-api-1.13.17.pom",
+      "hash": "sha256-qeWj2424xrZBabeGbyWDFZarJCMVS9rWcx59POL5O70="
+    },
+    "mockk-agent-api-1.13.17.jar": {
+      "url": "https://repo1.maven.org/maven2/io/mockk/mockk-agent-api/1.13.17/mockk-agent-api-1.13.17.jar",
+      "hash": "sha256-+8ZPXESnrd7Ytuq1F899cFVeJRU79dRKbtmw5TEvfek="
+    }
+  },
+  "org.apache.arrow:flight-sql:15.0.2": {
     "flight-sql-15.0.2.pom": {
-      "url": "https://repo.maven.apache.org/maven2/org/apache/arrow/flight-sql/15.0.2/flight-sql-15.0.2.pom",
+      "url": "https://repo1.maven.org/maven2/org/apache/arrow/flight-sql/15.0.2/flight-sql-15.0.2.pom",
       "hash": "sha256-ZL66u2pzqg4D10ayeITGNyaBzL4VgEMJqd/mIICN3O8="
+    },
+    "flight-sql-15.0.2.jar": {
+      "url": "https://repo1.maven.org/maven2/org/apache/arrow/flight-sql/15.0.2/flight-sql-15.0.2.jar",
+      "hash": "sha256-++0SBK5Sqxv+mGRKnu51Q8zz6S0KKsIoGSTmMGpjQQQ="
+    }
+  },
+  "org.apache.arrow:arrow-flight:15.0.2": {
+    "arrow-flight-15.0.2.pom": {
+      "url": "https://repo1.maven.org/maven2/org/apache/arrow/arrow-flight/15.0.2/arrow-flight-15.0.2.pom",
+      "hash": "sha256-pG9/R8VJa1UbLpBPaLGD2RqUuZjw3Z44vyNxt0Z6wpY="
+    }
+  },
+  "com.github.docker-java:docker-java-api:3.4.2": {
+    "docker-java-api-3.4.2.pom": {
+      "url": "https://repo1.maven.org/maven2/com/github/docker-java/docker-java-api/3.4.2/docker-java-api-3.4.2.pom",
+      "hash": "sha256-XZTShVo2NqawsyHOTQL846UhFZvMPxWqX3YJycwMYYA="
+    },
+    "docker-java-api-3.4.2.jar": {
+      "url": "https://repo1.maven.org/maven2/com/github/docker-java/docker-java-api/3.4.2/docker-java-api-3.4.2.jar",
+      "hash": "sha256-Z4nWj5WQTPJ0pkEP38xVMJdryUGXyFaQlFm7jGTbVXs="
+    }
+  },
+  "com.github.docker-java:docker-java-parent:3.4.2": {
+    "docker-java-parent-3.4.2.pom": {
+      "url": "https://repo1.maven.org/maven2/com/github/docker-java/docker-java-parent/3.4.2/docker-java-parent-3.4.2.pom",
+      "hash": "sha256-ZEWE+f5lQvtha3fA+RLb7zm7RYP0eX6uaAXxBymH72Y="
+    }
+  },
+  "org.hamcrest:hamcrest-core:1.3": {
+    "hamcrest-core-1.3.pom": {
+      "url": "https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom",
+      "hash": "sha256-/eOGp5BRc6GxA95quCBydYS1DQ4yKC4nl3h8IKZP+pM="
+    },
+    "hamcrest-core-1.3.jar": {
+      "url": "https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar",
+      "hash": "sha256-Zv3vkelzk0jfeglqo4SlaF9Oh1WEzOiThqekclHE2Ok="
+    }
+  },
+  "com.github.docker-java:docker-java-transport:3.4.2": {
+    "docker-java-transport-3.4.2.pom": {
+      "url": "https://repo1.maven.org/maven2/com/github/docker-java/docker-java-transport/3.4.2/docker-java-transport-3.4.2.pom",
+      "hash": "sha256-eHHbIs6S2rk1Xaj35L1uI6BoEC54zvpACo2AQbi1zJc="
+    },
+    "docker-java-transport-3.4.2.jar": {
+      "url": "https://repo1.maven.org/maven2/com/github/docker-java/docker-java-transport/3.4.2/docker-java-transport-3.4.2.jar",
+      "hash": "sha256-vJmBIk/cLUcmVm/HI0cGAc6xQ3gmXIZbTCAxRqTjl2U="
     }
   }
 }
